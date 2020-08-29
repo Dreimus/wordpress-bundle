@@ -1,7 +1,7 @@
 {
   "name":"dreimus/wordpress-bundle",
   "type": "symfony-bundle",
-  "version": "1.4.9",
+  "version": "1.4.10",
   "description": "Use Wordpress 5 as a backend for a Symfony application",
   "license": "GPL-3.0-or-later",
   "require": {
@@ -12,7 +12,7 @@
     "ext-mbstring" : "*",
     "ext-zlib": "*",
     "metabolism/wordpress-core-installer": "1.0.*",
-    "dreimus/package-actions": "1.1.*",
+    "dreimus/package-actions": "^1.1.2",
     "johnpbloch/wordpress-core": "5.*",
     "ifsnop/mysqldump-php":"2.*",
     "dflydev/dot-access-data":"~1.0",
